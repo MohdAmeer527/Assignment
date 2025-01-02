@@ -21,6 +21,7 @@ This project fetches and displays user data from an API, handles location servic
 ```
 https://reqres.in/api/users?page=2
 ```
+<img width="1136" alt="Screenshot 2025-01-02 at 8 58 00 PM" src="https://github.com/user-attachments/assets/7c15a3e6-9938-463a-a858-c0bc13ea4baf" />
 
 ## Features
 - Displays the current latitude, longitude, and address at the top of the screen
@@ -96,6 +97,7 @@ This app requires the following permissions:
 - **Camera**: To capture images for upload
 
 Ensure permissions are correctly configured in AndroidManifest.xml and Info.plist.
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
